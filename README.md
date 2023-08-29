@@ -1,13 +1,13 @@
 # Chatbot
 A simple rules-based chatbot 
 
-# Installation
+## Installation
 1. Run `yarn install`.
 
-# Running 
+## Running 
 1. Run `yarn chat`.
 
-# Writing new rules
+## Writing new rules
 A good [AIML tutorial][aimltutorial].
 
 [aimltutorial]: https://www.tutorialspoint.com/aiml/index.htm
